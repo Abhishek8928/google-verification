@@ -107,13 +107,13 @@ label{
 }
 
 .box{
-    width:350px;
+    width:330px;
 }
 .desc-p{
     font-size: 16px;
 }
 .container{
-    height:80vh;
+    height:90vh;
     width:100%;
     display:flex;
     justify-content: center;
